@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Personal url shortener",
   "main": "index.js",
+  "baseUrl": "https://gilja.org",
   "scripts": {
     "shorten": "netlify-shortener"
   },
