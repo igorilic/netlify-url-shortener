@@ -1,0 +1,23 @@
+{
+  "name": "netlify-url-shortener",
+  "version": "1.0.0",
+  "description": "Personal url shortener",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorilic/netlify-url-shortener.git"
+  },
+  "keywords": [],
+  "author": "Igor Ilic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorilic/netlify-url-shortener/issues"
+  },
+  "homepage": "https://github.com/igorilic/netlify-url-shortener#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.2"
+  }
+}
